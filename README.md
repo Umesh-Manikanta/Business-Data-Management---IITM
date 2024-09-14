@@ -45,3 +45,20 @@ The data analysis presents multiple growth opportunities for **Laxmi Genric Phar
 - **Predictive Inventory Management**: Use predictive models to ensure optimal stock levels.
 - **Customer Retention Strategies**: Implement personalized marketing for high-value customers.
 
+
+## 🏆 **Performance Overview**
+I achieved the following scores in various submissions for the **Business Data Management Capstone Project**:
+
+
+
+
+| Submission Type        | Score (Out of 100) | Scaled Score |
+|------------------------|--------------------|--------------|
+| 📑 **Proposal Submission**  | 94                 | 20           |
+| 📈 **Mid-term Submission**  | 92                 | 20           |
+| 📊 **End-term Submission**  | 87                 | 40           |
+| 🎤 **Viva**                | 85                 | 20           |
+| **Total**                | **88/100**         | **A Grade**  |
+
+
+This project was part of the **IITM B.Sc in Data Science** program, where I analyzed the business data of **Laxmi Genric Pharmacy** to derive actionable insights.
